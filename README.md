@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marco-DAmato
 - 👀 I’m interested in Data Science @ Artificial Intelligence
-- 🌱 I’m during the dissertation phase of my MSC in Artificial Intelligence
+- 🌱 I’m currently working on the dissertation of my MSC in Artificial Intelligence
 - 💞️ I’m looking to collaborate on projects about Data Science @ Artificial Intelligence
 - 📫 How to reach me: marco.damato@mail.com
 
